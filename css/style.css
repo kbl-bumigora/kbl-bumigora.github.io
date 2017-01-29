@@ -2,7 +2,7 @@ body{
     font-family: Dosis;
 }
 .brand-logo {
-    left: 80px;  
+    left: 80px;
 }
 .nav-mobile{
     right: 10px;
@@ -62,7 +62,7 @@ footer.page-footer {
 }
 footer.page-footer ul li a {
     float: left;
-    padding: 5px 30px 5px 30px; 
+    padding: 5px 30px 5px 30px;
     margin-left: 0;
     font-size: 25px;
 }
