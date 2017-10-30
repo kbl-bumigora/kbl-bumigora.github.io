@@ -1,6 +1,6 @@
 # kblbumigora.github.io
 
-Web KBL Bumigora
+Web Komunitas Belajar Linux Bumigora
 
 # Cara Kontribusi
 
